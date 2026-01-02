@@ -11,3 +11,8 @@
 
 👉 🇧🇷 [Acesse o portfólio em Português](./Portfólio_PT)  
 👉 🌎 [Access the portfolio in English](./Portfolio_EN)
+
+## 📄 Professional Statement
+
+You can find my professional statement here:  
+👉 [Professional Statement](./About_me)
