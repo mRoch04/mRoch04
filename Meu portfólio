@@ -1,74 +1,51 @@
-#🛡️ Maira Rocha — Cybersecurity Portfolio
+🛡️ Maira Rocha — Portfólio de Cibersegurança
+Bem-vinda(o) ao meu portfólio de cibersegurança!
+Sou graduanda em Cibersegurança e Técnica em Redes de Computadores, com foco em segurança da informação, análise de redes, administração de sistemas e resolução de problemas. Aqui você encontrará meus projetos, laboratórios práticos (em andamento) e certificações que representam minha trajetória de aprendizado na área.
+________________________________________
+👩‍💻 Sobre Mim
+Oi! 👋
+Meu nome é Maira Rocha e estou iniciando minha trajetória profissional em Cibersegurança. Tenho grande interesse por tecnologia, lógica de sistemas e proteção da informação. Venho estudando e aplicando conceitos relacionados a:
+•	Segurança de redes (TCP/IP, monitoramento e detecção de anomalias)
+•	Administração de sistemas (Linux)
+•	Princípios da segurança da informação (Confidencialidade, Integridade e Disponibilidade – CIA)
+•	Automação e scripts básicos com Python
+•	Análises práticas de segurança
+Busco oportunidades de estágio ou posições júnior em cibersegurança, redes ou suporte técnico, onde eu possa contribuir com projetos e continuar evoluindo técnica e profissionalmente.
+________________________________________
+📂 Sumário
+Sumário
+🚀 Projetos	2
+📜 Certificações & Cursos	2
+🛠️ Ferramentas & Tecnologias	2
+📫 Contato	2
 
-Bem-vinda(o) ao meu portfólio de cibersegurança!  
-Sou Graduanda em Cibersegurança e Técnica em Redes de Computadores, com foco em segurança da informação, análise de redes, administração de sistemas e resolução de desafios. Aqui você encontra meus projetos, laboratórios(em andamento) e certificados que representam meu aprendizado prático na área.
+________________________________________
+🚀 Projetos
+🔹 Projeto: Análise de Tráfego de Rede com Wireshark
+(Em andamento)
+🔹 Projeto: Script de Automação com Python
+(Em andamento)
 
----
+📜 Certificações & Cursos
+•	🏅 Coursera – Google Cybersecurity
+•	📜 SENAI – Técnico em Redes de Computadores
+•	📚 Cisco – Introduction to Cybersecurity
+•	📘 FAETEC – Inglês Básico
+Para mais detalhes e certificados:
+https://drive.google.com/drive/u/2/folders/1I1nTBWz1QryLIzKfT0Y88T4emuXh00v2
+________________________________________
+🛠️ Ferramentas & Tecnologias
+Principais ferramentas e ambientes com os quais já trabalhei:
+•	Sistemas Operacionais: Linux (Ubuntu), Windows
+•	Redes: Wireshark (análise básica de tráfego)
+•	Programação: Python (scripts básicos)
+•	Conceitos de Segurança: Tríade CIA (Confidencialidade, Integridade e Disponibilidade), Análise de Logs
+•	Virtualização: Hyper-V, VMware
+________________________________________
+📫 Contato
+•	🔗 LinkedIn: https://www.linkedin.com/in/mairarochasilva/
+•	💻 GitHub: https://github.com/mRoch04
+•	📧 E-mail: mairaroch04@gmail.com
+________________________________________
+📌 Portfólio em constante evolução — novos projetos, laboratórios e desafios serão adicionados conforme continuo estudando e praticando cibersegurança.
 
-#👩‍💻 Sobre Mim
-
-Oi! 👋  
-Meu nome é Maira Rocha e estou começando minha jornada profissional em Cybersecurity. Tenho paixão por tecnologia, lógica de sistemas e proteção de informações. Me dedico a aprender e aplicar conceitos de:
-
-* Segurança de redes (TCP/IP, monitoramento, detecção de anomalias)  
-* Administração de sistemas (Linux)  
-* Conceitos de segurança da informação (confidencialidade, integridade, disponibilidade)  
-* Automação e ferramentas básicas com Python  
-* Análises práticas
-
-Estou em busca de oportunidades de estágio ou posição júnior em cibersegurança, redes ou suporte, onde possa contribuir com projetos e continuar evoluindo tecnicamente.
-
----
-
-#📂 Sumário
-
-* 🔍 [Projetos](#-projetos)  
-* 📜 [Certificações & Cursos](#-certificações--cursos)  
-* 🛠️ [Ferramentas & Tecnologias](#️-ferramentas--tecnologias)  
-* 📫 [Contato](#-contato)
-
----
-
-#🚀 Projetos
-
-🔹 Projeto: Análise de Tráfego com Wireshark  
-(EM ANDAMENTO)
----
-
-🔹 Projeto: Script de Automação com Python  
-(EM ANDAMENTO)
----
-
-#📜 Certificações & Cursos
-
-* 🏅 COURSERA – Google cybersecurity
-* 📜SENAI – Técnico em Redes de Computadores
-* 📚CISCO – Introduction to cybersecurity
-* 📘FAETEC – Inglês básico 
-
-Para mais:
-(https://drive.google.com/drive/u/2/folders/1I1nTBWz1QryLIzKfT0Y88T4emuXh00v2)
-
----
-
-#🛠️ Ferramentas & Tecnologias
-
-Principais ferramentas e ambientes que já usei:
-
-Sistemas Operacionais: Linux (Ubuntu), Windows  
-Redes: Wireshark (análises básicas) 
-Programação: Python (scripts básicos)  
-Conceitos de Segurança: CIA (Confidencialidade, Integridade, Disponibilidade), Análise de Logs.
-Virtualizadores: Hyper-V e VMware
-
----
-
-#📫 Contato
-
-* 🔗 LinkedIn: https://www.linkedin.com/in/mairarochasilva/ 
-* 💻 GitHub: https://github.com/mRoch04
-* 📧 Email: mairaroch04@gmail.com
-
----
-
-> 📌 Portfólio em constante crescimento — novos projetos e desafios serão adicionados à medida que continuo estudando e praticando cibersegurança!!!
