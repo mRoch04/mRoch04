@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @mRoch04
-- 👀 I’m interested in cibersegurança, redes de computadores e um pouco de programação
-- 🌱 I’m currently learning cibersegurança
-- 😄 Pronouns: ela/dela
+## 👋 Hi, I'm Maira Rocha
 
-<!---
-mRoch04/mRoch04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.M
---->
+🎓 Cybersecurity undergraduate and Computer Networks Technician  
+🛡️ Interested in cybersecurity, networks, and IT support  
+🌱 Currently learning cybersecurity fundamentals  
+😄 Pronouns: she/her  
+
+---
+
+## 📁 Portfolio
+
+👉 🇧🇷 [Acesse o portfólio em Português](./Portfolio_PT)  
+👉 🌎 [Access the portfolio in English](./Portfolio_EN)
